@@ -1,3 +1,4 @@
 # assignments
 this repository contains my assignments
 [assignment week 2](https://github.com/EvelinevanHouwelingen/assignments/blob/master/Assignment_week_2%20(5).ipynb)
+[assignment week 5](https://github.com/EvelinevanHouwelingen/assignments/blob/master/Assignment_week_5.ipynb)
